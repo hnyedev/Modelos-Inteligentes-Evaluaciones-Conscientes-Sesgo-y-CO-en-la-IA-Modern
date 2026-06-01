@@ -1,6 +1,8 @@
 ﻿# Modelos-Inteligentes-Evaluaciones-Conscientes-Sesgo-y-CO-en-la-IA-Modern
 Autores
-NombreInstituciónContactoSuny Ricarte Ramírez PérezUniversidad Politécnica de Yucatán—Giovanni Rafael Soriano PachecoUniversidad Politécnica de Yucatán—Cesar Antonio Pinto MayUniversidad Politécnica de Yucatánsrpintocesar@gmail.com
+Suny Ricarte Ramírez PérezUniversidad Politécnica de Yucatán
+Giovanni Rafael Soriano Pacheco Universidad Politécnica de Yucatán
+Cesar Antonio Pinto MayUniversidad Politécnica de Yucatán srpintocesar@gmail.com
 Palabras clave: Benchmarking · Huella de carbono · Inteligencia artificial · Gasto financiero
 
 **Resumen**
